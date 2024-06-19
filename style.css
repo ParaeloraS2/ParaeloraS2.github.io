@@ -25,6 +25,7 @@ body {
   background-color: yellow;
   color: black;
   margin-bottom: 60px;
+  z-index: 1000; 
 }
 
 /* The close button */
