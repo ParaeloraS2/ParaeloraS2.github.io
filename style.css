@@ -22,7 +22,7 @@ body {
 .alert {
   font-size: 40px;
   padding: 40px;
-  background-color: yellow;
+  background-color: #FF69B4;
   color: black;
   margin-bottom: 60px;
   z-index: 1000; 
